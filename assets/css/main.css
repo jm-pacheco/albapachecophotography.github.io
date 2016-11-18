@@ -1684,6 +1684,14 @@
 			line-height: 3em;
 			cursor: default;
 		}
+        #header img {
+			position: absolute;
+			left: 1em;
+			top: 0;
+			height: 3em;
+			line-height: 3em;
+			cursor: default;
+		}
 
 			#header h1 a {
 				font-size: 1.25em;
